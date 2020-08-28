@@ -1,0 +1,11 @@
+{
+  "name": "gitsubmodule-package-utils",
+  "version": "1.0.0",
+  "description": "Util functions",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
